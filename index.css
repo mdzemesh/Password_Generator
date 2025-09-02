@@ -2,7 +2,7 @@ body {
     margin: 0;
     background-color: #0C4A6E;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
     height: 100vh;
 }
